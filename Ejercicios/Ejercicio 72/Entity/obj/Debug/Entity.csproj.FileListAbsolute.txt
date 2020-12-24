@@ -1,0 +1,6 @@
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 72\Entity\bin\Debug\Entity.exe.config
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 72\Entity\bin\Debug\Entity.exe
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 72\Entity\bin\Debug\Entity.pdb
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 72\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 72\Entity\obj\Debug\Entity.exe
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 72\Entity\obj\Debug\Entity.pdb

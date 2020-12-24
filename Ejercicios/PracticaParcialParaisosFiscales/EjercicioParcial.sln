@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{1A50DC6B-3DD6-426C-BB6A-46F4AB23C73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParaisosFiscales", "ParaisosFiscales\ParaisosFiscales.csproj", "{A950698F-816D-44FA-9C6C-F66D8E15A338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A50DC6B-3DD6-426C-BB6A-46F4AB23C73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A50DC6B-3DD6-426C-BB6A-46F4AB23C73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A50DC6B-3DD6-426C-BB6A-46F4AB23C73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A50DC6B-3DD6-426C-BB6A-46F4AB23C73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A950698F-816D-44FA-9C6C-F66D8E15A338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A950698F-816D-44FA-9C6C-F66D8E15A338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A950698F-816D-44FA-9C6C-F66D8E15A338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A950698F-816D-44FA-9C6C-F66D8E15A338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28485ECE-1052-4C14-B8C6-D816E31353E3}
+	EndGlobalSection
+EndGlobal

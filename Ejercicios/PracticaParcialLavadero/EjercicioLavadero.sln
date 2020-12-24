@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{AF3233A8-087A-44FF-BFC6-A0FB4737A610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lavadero", "Lavadero\Lavadero.csproj", "{ED5679D4-8DDA-463A-BC13-C48DC2D7FD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3233A8-087A-44FF-BFC6-A0FB4737A610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3233A8-087A-44FF-BFC6-A0FB4737A610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3233A8-087A-44FF-BFC6-A0FB4737A610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3233A8-087A-44FF-BFC6-A0FB4737A610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5679D4-8DDA-463A-BC13-C48DC2D7FD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5679D4-8DDA-463A-BC13-C48DC2D7FD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5679D4-8DDA-463A-BC13-C48DC2D7FD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5679D4-8DDA-463A-BC13-C48DC2D7FD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213F0252-B0D5-4484-AFE5-01134BAE9EC7}
+	EndGlobalSection
+EndGlobal

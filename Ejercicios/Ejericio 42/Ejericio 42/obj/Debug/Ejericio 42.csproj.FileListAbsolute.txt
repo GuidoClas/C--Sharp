@@ -1,0 +1,6 @@
+C:\Users\Guido\Desktop\Cursada C#\Ejericio 42\Ejericio 42\bin\Debug\Ejericio 42.exe.config
+C:\Users\Guido\Desktop\Cursada C#\Ejericio 42\Ejericio 42\bin\Debug\Ejericio 42.exe
+C:\Users\Guido\Desktop\Cursada C#\Ejericio 42\Ejericio 42\bin\Debug\Ejericio 42.pdb
+C:\Users\Guido\Desktop\Cursada C#\Ejericio 42\Ejericio 42\obj\Debug\Ejericio 42.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\Ejericio 42\Ejericio 42\obj\Debug\Ejericio 42.exe
+C:\Users\Guido\Desktop\Cursada C#\Ejericio 42\Ejericio 42\obj\Debug\Ejericio 42.pdb

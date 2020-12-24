@@ -1,0 +1,11 @@
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.AssemblyInfoInputs.cache
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.AssemblyInfo.cs
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.exe
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.deps.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.runtimeconfig.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.runtimeconfig.dev.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.dll
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.pdb
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.dll
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.pdb

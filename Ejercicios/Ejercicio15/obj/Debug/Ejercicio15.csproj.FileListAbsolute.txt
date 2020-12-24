@@ -1,0 +1,10 @@
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\bin\Debug\Ejercicio12.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\bin\Debug\Ejercicio12.pdb
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\bin\Debug\Ejercicio12.exe.config
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\obj\Debug\Ejercicio15.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\obj\Debug\Ejercicio15.csproj.CopyComplete
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio15\obj\Debug\Ejercicio15.pdb

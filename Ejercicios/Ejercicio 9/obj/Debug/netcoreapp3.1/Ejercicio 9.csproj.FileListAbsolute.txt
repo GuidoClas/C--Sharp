@@ -1,0 +1,11 @@
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.exe
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.deps.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.runtimeconfig.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.runtimeconfig.dev.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.dll
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.pdb
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.AssemblyInfoInputs.cache
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.AssemblyInfo.cs
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.dll
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.pdb

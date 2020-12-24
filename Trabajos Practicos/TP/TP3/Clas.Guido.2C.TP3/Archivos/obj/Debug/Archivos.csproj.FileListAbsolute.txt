@@ -1,0 +1,8 @@
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,12 @@
+JORNADA: 
+CLASE DE Laboratorio POR: NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+CLASES DEL DIA:
+SPD
+Laboratorio
+
+Alumnos:
+
+< ----------------------------------------------------------->
+

@@ -1,0 +1,12 @@
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

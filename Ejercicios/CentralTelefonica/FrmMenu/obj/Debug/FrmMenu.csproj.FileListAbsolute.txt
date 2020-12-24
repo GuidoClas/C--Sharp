@@ -1,0 +1,14 @@
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\bin\Debug\CentralitaHerencia.dll
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.FrmLlamador.resources
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.FrmMenu.resources
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\Guido\Desktop\Cursada C#\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.FrmMostrar.resources

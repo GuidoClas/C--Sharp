@@ -1,0 +1,9 @@
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\bin\Debug\MainMascota.exe.config
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\bin\Debug\MainMascota.exe
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\bin\Debug\MainMascota.pdb
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\obj\Debug\MainMascota.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\obj\Debug\MainMascota.csproj.CopyComplete
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\obj\Debug\MainMascota.exe
+C:\Users\Guido\Desktop\Cursada C#\PracticaParcialMascotas\MainMascota\obj\Debug\MainMascota.pdb

@@ -1,0 +1,9 @@
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\bin\Debug\FormThread.exe.config
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\bin\Debug\FormThread.exe
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\bin\Debug\FormThread.pdb
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\obj\Debug\FormThread.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\obj\Debug\FormThread.Form1.resources
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\obj\Debug\FormThread.Properties.Resources.resources
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\obj\Debug\FormThread.csproj.GenerateResource.cache
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\obj\Debug\FormThread.exe
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 63\FormThread\obj\Debug\FormThread.pdb

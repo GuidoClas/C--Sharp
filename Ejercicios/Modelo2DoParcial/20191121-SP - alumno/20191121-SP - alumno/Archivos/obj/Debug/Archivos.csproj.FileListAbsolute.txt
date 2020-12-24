@@ -1,0 +1,6 @@
+C:\Users\Guido\Desktop\ModeloParcial\20191121-SP - alumno\20191121-SP - alumno\Archivos\bin\Debug\Archivos.dll
+C:\Users\Guido\Desktop\ModeloParcial\20191121-SP - alumno\20191121-SP - alumno\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Guido\Desktop\ModeloParcial\20191121-SP - alumno\20191121-SP - alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\ModeloParcial\20191121-SP - alumno\20191121-SP - alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\ModeloParcial\20191121-SP - alumno\20191121-SP - alumno\Archivos\obj\Debug\Archivos.dll
+C:\Users\Guido\Desktop\ModeloParcial\20191121-SP - alumno\20191121-SP - alumno\Archivos\obj\Debug\Archivos.pdb

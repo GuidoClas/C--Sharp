@@ -1,0 +1,6 @@
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.pdb

@@ -1,0 +1,10 @@
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\bin\Debug\Ejercicio12.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\bin\Debug\Ejercicio12.pdb
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\bin\Debug\Ejercicio12.exe.config
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\obj\Debug\Ejercicio 8.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CopyComplete
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Guido\Desktop\C#\Ejercicios\Ejercicio 8\obj\Debug\Ejercicio 8.pdb

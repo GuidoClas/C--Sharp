@@ -1,0 +1,11 @@
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\bin\Debug\netcoreapp3.1\Ejercicio 7.exe
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\bin\Debug\netcoreapp3.1\Ejercicio 7.deps.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\bin\Debug\netcoreapp3.1\Ejercicio 7.runtimeconfig.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\bin\Debug\netcoreapp3.1\Ejercicio 7.runtimeconfig.dev.json
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\bin\Debug\netcoreapp3.1\Ejercicio 7.dll
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\bin\Debug\netcoreapp3.1\Ejercicio 7.pdb
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\obj\Debug\netcoreapp3.1\Ejercicio 7.AssemblyInfoInputs.cache
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\obj\Debug\netcoreapp3.1\Ejercicio 7.AssemblyInfo.cs
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\obj\Debug\netcoreapp3.1\Ejercicio 7.dll
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\obj\Debug\netcoreapp3.1\Ejercicio 7.pdb
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio 7\obj\Debug\netcoreapp3.1\Ejercicio 7.csprojAssemblyReference.cache

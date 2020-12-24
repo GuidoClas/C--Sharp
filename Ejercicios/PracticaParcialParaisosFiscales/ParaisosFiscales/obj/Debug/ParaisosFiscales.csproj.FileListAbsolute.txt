@@ -1,0 +1,9 @@
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\bin\Debug\ParaisosFiscales.exe.config
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\bin\Debug\ParaisosFiscales.exe
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\bin\Debug\ParaisosFiscales.pdb
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\obj\Debug\ParaisosFiscales.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\obj\Debug\ParaisosFiscales.csproj.CopyComplete
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\obj\Debug\ParaisosFiscales.exe
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\ParaisosFiscales\obj\Debug\ParaisosFiscales.pdb

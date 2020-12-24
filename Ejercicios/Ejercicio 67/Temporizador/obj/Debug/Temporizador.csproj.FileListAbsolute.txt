@@ -1,0 +1,11 @@
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\bin\Debug\Temporizador.dll
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\bin\Debug\Temporizador.pdb
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.dll
+C:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.pdb
+D:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\bin\Debug\Temporizador.dll
+D:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\bin\Debug\Temporizador.pdb
+D:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.csprojAssemblyReference.cache
+D:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.csproj.CoreCompileInputs.cache
+D:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.dll
+D:\Users\Guido\Desktop\Cursada C#\Ejercicio 67\Temporizador\obj\Debug\Temporizador.pdb

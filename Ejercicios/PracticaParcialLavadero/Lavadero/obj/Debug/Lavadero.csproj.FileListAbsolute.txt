@@ -1,0 +1,9 @@
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\bin\Debug\Lavadero.exe.config
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\bin\Debug\Lavadero.exe
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\bin\Debug\Lavadero.pdb
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\obj\Debug\Lavadero.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\obj\Debug\Lavadero.csproj.CopyComplete
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\obj\Debug\Lavadero.exe
+C:\Users\Guido\Desktop\Cursada C#\EjercicioLavadero\Lavadero\obj\Debug\Lavadero.pdb

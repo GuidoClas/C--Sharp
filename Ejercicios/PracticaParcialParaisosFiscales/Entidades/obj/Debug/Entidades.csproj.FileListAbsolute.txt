@@ -1,0 +1,5 @@
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\EjercicioParcial\Entidades\obj\Debug\Entidades.pdb

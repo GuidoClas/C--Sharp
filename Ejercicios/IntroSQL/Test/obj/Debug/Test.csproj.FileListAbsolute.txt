@@ -1,0 +1,9 @@
+C:\Users\Guido\source\repos\IntroSQL\Test\bin\Debug\Test.exe.config
+C:\Users\Guido\source\repos\IntroSQL\Test\bin\Debug\Test.exe
+C:\Users\Guido\source\repos\IntroSQL\Test\bin\Debug\Test.pdb
+C:\Users\Guido\source\repos\IntroSQL\Test\bin\Debug\Logic.dll
+C:\Users\Guido\source\repos\IntroSQL\Test\bin\Debug\Logic.pdb
+C:\Users\Guido\source\repos\IntroSQL\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Guido\source\repos\IntroSQL\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Guido\source\repos\IntroSQL\Test\obj\Debug\Test.exe
+C:\Users\Guido\source\repos\IntroSQL\Test\obj\Debug\Test.pdb

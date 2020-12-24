@@ -1,0 +1,11 @@
+C:\Users\Guido\Desktop\Cursada C#\Clas.Guido.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\Clas.Guido.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\Cursada C#\Clas.Guido.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\Cursada C#\Clas.Guido.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guido\Desktop\Cursada C#\Clas.Guido.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C PARCIAL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C PARCIAL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C PARCIAL\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C PARCIAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C PARCIAL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C PARCIAL\Entidades\obj\Debug\Entidades.pdb

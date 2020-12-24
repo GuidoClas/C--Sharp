@@ -1,0 +1,12 @@
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guido\Desktop\C-Sharp\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP4\Clas.Guido.2C.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP4\Clas.Guido.2C.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP4\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP4\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP4\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP4\Clas.Guido.2C.TP4\Entidades\obj\Debug\Entidades.pdb

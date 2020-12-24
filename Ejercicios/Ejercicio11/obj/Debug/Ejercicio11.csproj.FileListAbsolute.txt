@@ -1,0 +1,6 @@
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\Guido\Desktop\C-Sharp\Ejercicio11\obj\Debug\Ejercicio11.pdb

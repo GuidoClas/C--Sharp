@@ -1,0 +1,5 @@
+C:\Users\Guido\source\repos\IntroSQL\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Guido\source\repos\IntroSQL\Logic\bin\Debug\Logic.dll
+C:\Users\Guido\source\repos\IntroSQL\Logic\bin\Debug\Logic.pdb
+C:\Users\Guido\source\repos\IntroSQL\Logic\obj\Debug\Logic.dll
+C:\Users\Guido\source\repos\IntroSQL\Logic\obj\Debug\Logic.pdb

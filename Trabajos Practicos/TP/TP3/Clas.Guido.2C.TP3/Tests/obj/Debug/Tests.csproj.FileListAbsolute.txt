@@ -1,0 +1,48 @@
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Tests.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Tests.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Archivos.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Abstractas.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Instanciables.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Excepciones.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Archivos.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Abstractas.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Instanciables.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Excepciones.pdb
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.dll
+C:\Users\Guido\source\repos\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Tests.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Tests.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Archivos.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Abstractas.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Instanciables.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Excepciones.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Archivos.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Abstractas.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Clases Instanciables.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Excepciones.pdb
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.dll
+C:\Users\Guido\Desktop\tp_laboratorio_2\TP\TP3\Clas.Guido.2C.TP3\Tests\obj\Debug\Tests.pdb
